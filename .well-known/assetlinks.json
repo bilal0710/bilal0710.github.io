@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.topdev.alois",
-    "sha256_cert_fingerprints":
-    ["67:3B:28:84:22:49:E0:67:11:83:C7:9A:98:8F:95:32:2B:99:6F:2D:DD:C6:02:5D:6E:59:D1:64:11:20:7E:EE"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.topdev.alois",
+               "sha256_cert_fingerprints": ["14:EE:D8:7F:1E:BB:25:97:98:E4:5F:51:4D:A4:7B:0E:0C:63:39:A2:50:CE:38:9F:AA:AD:78:A5:EA:BE:FF:0D"] }
 }]
